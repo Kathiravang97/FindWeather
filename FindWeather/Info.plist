@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to provide location-based services while the app is in use.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need your location for location-based services, even when the app is in the background.</string>
+</dict>
+</plist>

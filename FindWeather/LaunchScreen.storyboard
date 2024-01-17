@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="world" translatesAutoresizingMaskIntoConstraints="NO" id="Rl7-PZ-p5x">
+                                <rect key="frame" x="0.0" y="59" width="393" height="340.66666666666669"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Find Weather" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="czq-PP-Plw">
+                                <rect key="frame" x="0.0" y="399.66666666666669" width="393" height="85.333333333333314"/>
+                                <fontDescription key="fontDescription" type="system" weight="black" pointSize="34"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="applogo" translatesAutoresizingMaskIntoConstraints="NO" id="Icc-eR-2Tr">
+                                <rect key="frame" x="39.333333333333343" y="485" width="314.33333333333326" height="298.33333333333326"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.050980392159999999" green="0.74117647060000003" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="czq-PP-Plw" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="4i0-Ix-qsW"/>
+                            <constraint firstItem="Icc-eR-2Tr" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" multiplier="0.8" id="5Ah-rH-MMZ"/>
+                            <constraint firstItem="Rl7-PZ-p5x" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="Hte-aX-jau"/>
+                            <constraint firstItem="czq-PP-Plw" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="0.1" id="IGR-BP-ctc"/>
+                            <constraint firstItem="czq-PP-Plw" firstAttribute="top" secondItem="Rl7-PZ-p5x" secondAttribute="bottom" id="cAt-2z-Xbb"/>
+                            <constraint firstItem="Rl7-PZ-p5x" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="df0-Yp-JPT"/>
+                            <constraint firstItem="Rl7-PZ-p5x" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="0.4" id="fAM-wY-QAj"/>
+                            <constraint firstItem="Icc-eR-2Tr" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="gwJ-xb-nAR"/>
+                            <constraint firstItem="Icc-eR-2Tr" firstAttribute="top" secondItem="czq-PP-Plw" secondAttribute="bottom" id="i9m-8o-10G"/>
+                            <constraint firstItem="Rl7-PZ-p5x" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="uFc-78-bUS"/>
+                            <constraint firstItem="Icc-eR-2Tr" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="0.35" id="vAe-eS-elY"/>
+                            <constraint firstItem="czq-PP-Plw" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="wMQ-m2-WLv"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="542.74809160305347" y="263.38028169014086"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="applogo" width="710" height="725"/>
+        <image name="world" width="390" height="340"/>
+    </resources>
+</document>

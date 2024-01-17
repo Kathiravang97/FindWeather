@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D0025000-BD81-4798-9213-64934CEAECF0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D2A5310-089F-471F-B582-7F326F3621E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchSearchLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D2A5310-089F-471F-B582-7F326F3621E5 - dc3ff39999f06be2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "5D2A5310-089F-471F-B582-7F326F3621E5 - dc3ff39999f06be2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "5D2A5310-089F-471F-B582-7F326F3621E5 - dc3ff39999f06be2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+               <Location
+                  uuid = "5D2A5310-089F-471F-B582-7F326F3621E5 - dc3ff39999f06ba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "5D2A5310-089F-471F-B582-7F326F3621E5 - dc3ff39999f06ba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "5D2A5310-089F-471F-B582-7F326F3621E5 - dc3ff39999f06ba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1860">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B10D5FE4-ED91-46B0-8EBE-BD4618E656A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchSearchLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B10D5FE4-ED91-46B0-8EBE-BD4618E656A3 - dc3ff39999f06bc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "B10D5FE4-ED91-46B0-8EBE-BD4618E656A3 - dc3ff39999f06b81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70C66AAA-5429-4F3E-A8FF-5DA6E6EF6643"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "fetchSearchLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70C66AAA-5429-4F3E-A8FF-5DA6E6EF6643 - dc3ff39999f068da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1704">
+               </Location>
+               <Location
+                  uuid = "70C66AAA-5429-4F3E-A8FF-5DA6E6EF6643 - dc3ff39999f06898"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FindWeather.ForecastModel, Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Friend/Downloads/prasanthiosproject-weatherapp-44f7e53bcd18/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B4C5AC8-B308-41D4-89AB-C968B5869E6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/APIWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchData(type:url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

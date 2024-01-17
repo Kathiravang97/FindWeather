@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D6E41B5-3878-4BDA-8411-3AD183E399E4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9171A023-D888-4521-AA55-14E83F96E60F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "fetchSearchLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9171A023-D888-4521-AA55-14E83F96E60F - 6adffa595f36880d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;FindWeather.ForecastModel&gt;), Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "3844">
+               </Location>
+               <Location
+                  uuid = "9171A023-D888-4521-AA55-14E83F96E60F - 6adffa595f36880d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;FindWeather.ForecastModel&gt;), Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "3848">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EEE7BE1-6AFF-4EA5-A897-EFA6376AF2F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchSearchLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA9E01AA-B18C-4E6F-B91F-ECB2D7524780"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchSearchLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA9E01AA-B18C-4E6F-B91F-ECB2D7524780 - 6adffa595f368bf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;FindWeather.ForecastModel&gt;), Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "EA9E01AA-B18C-4E6F-B91F-ECB2D7524780 - 6adffa595f368bf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;FindWeather.ForecastModel&gt;), Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "EA9E01AA-B18C-4E6F-B91F-ECB2D7524780 - 6adffa595f368bf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;FindWeather.ForecastModel&gt;), Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "4260">
+               </Location>
+               <Location
+                  uuid = "EA9E01AA-B18C-4E6F-B91F-ECB2D7524780 - 6adffa595f368bf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;FindWeather.ForecastModel&gt;), Swift.Error&gt;) -&gt; () in FindWeather.SearchLocationWeatherVC.fetchSearchLocation() -&gt; ()"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchLocationWeatherVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "4360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00F79317-AF9B-4C0D-98C8-3F5887D39BD4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchTableVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADF32AFA-E5FE-406B-8635-3D2713A3EDDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchTableVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ADF32AFA-E5FE-406B-8635-3D2713A3EDDD - 311f52db781d1298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.SearchLocationWeatherVC.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchTableVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "ADF32AFA-E5FE-406B-8635-3D2713A3EDDD - 311f52db781d1298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.SearchLocationWeatherVC.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchTableVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F4B7DF5-F978-45CD-BA5D-425AE73E93B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchTableVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F4B7DF5-F978-45CD-BA5D-425AE73E93B4 - 1359070ac896b813"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.SearchLocationWeatherVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchTableVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "2588">
+               </Location>
+               <Location
+                  uuid = "9F4B7DF5-F978-45CD-BA5D-425AE73E93B4 - 1359070ac896b813"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.SearchLocationWeatherVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchTableVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "960">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99FC2ADD-7ADB-4BE1-91BE-2DECCBD2B5C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/View/ViewControllers/SearchTableVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99FC2ADD-7ADB-4BE1-91BE-2DECCBD2B5C8 - 1359070ac896be84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.SearchLocationWeatherVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchTableVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "5684">
+               </Location>
+               <Location
+                  uuid = "99FC2ADD-7ADB-4BE1-91BE-2DECCBD2B5C8 - 1359070ac896bf65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.SearchLocationWeatherVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchTableVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "4948">
+               </Location>
+               <Location
+                  uuid = "99FC2ADD-7ADB-4BE1-91BE-2DECCBD2B5C8 - 1359070ac896bf65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.SearchLocationWeatherVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/View/ViewControllers/SearchTableVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "5188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2A990D5-CE10-414C-B72E-E022110A9685"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindWeather/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D2A990D5-CE10-414C-B72E-E022110A9685 - a9f7f47752b7d93c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.AppDelegate.apiService.getter : Swift.Optional&lt;FindWeather.APIService&gt;"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D2A990D5-CE10-414C-B72E-E022110A9685 - 46e08e88f3e9f108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.AppDelegate.apiService.setter : Swift.Optional&lt;FindWeather.APIService&gt;"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "D2A990D5-CE10-414C-B72E-E022110A9685 - 1924a4bfc2f2512a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.AppDelegate.apiService.modify : Swift.Optional&lt;FindWeather.APIService&gt;"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D2A990D5-CE10-414C-B72E-E022110A9685 - 854dd9ba06cde12b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.AppDelegate.apiService.modify : Swift.Optional&lt;FindWeather.APIService&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D2A990D5-CE10-414C-B72E-E022110A9685 - cc80332a89a8c93c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindWeather.AppDelegate.init() -&gt; FindWeather.AppDelegate"
+                  moduleName = "FindWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sail/Downloads/Find%20Weather%202/FindWeather/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

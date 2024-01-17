@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-FindWeather-FindWeatherUITests/Pods-FindWeather-FindWeatherUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
